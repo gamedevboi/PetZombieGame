@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: d709bc47abae4544abaae4b0ce62e5d7
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - resetedMainMenu: {instanceID: 0}
+  - zombiReseted: {instanceID: 0}
+  executionOrder: 20
+  icon: {instanceID: 0}
+  userData: 

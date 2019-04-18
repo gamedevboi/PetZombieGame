@@ -1,0 +1,287 @@
+fileFormatVersion: 2
+guid: a088cf9f09aeed7468808cac5843c722
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 2
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  - buildTarget: Android
+    maxTextureSize: 1024
+    textureFormat: -3
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: Plantilla Zombies 1_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 347
+        width: 363
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Plantilla Zombies 1_1
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 583
+        width: 87
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Plantilla Zombies 1_2
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 425
+        width: 140
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Plantilla Zombies 1_3
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 575
+        width: 54
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Plantilla Zombies 1_4
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 681
+        width: 84
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Plantilla Zombies 1_5
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 681
+        width: 73
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Plantilla Zombies 1_6
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 411
+        width: 364
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Plantilla Zombies 1_7
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 575
+        width: 76
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Plantilla Zombies 1_8
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 485
+        width: 142
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Plantilla Zombies 1_9
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 611
+        width: 68
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Plantilla Zombies 1_10
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 385
+        width: 114
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Plantilla Zombies 1_11
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 509
+        width: 80
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Plantilla Zombies 1_12
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 379
+        width: 80
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Plantilla Zombies 1_13
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 353
+        width: 76
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Plantilla Zombies 1_14
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 25
+        width: 304
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Plantilla Zombies 1_15
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 165
+        width: 70
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Plantilla Zombies 1_16
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 15
+        width: 134
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Plantilla Zombies 1_17
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 167
+        width: 70
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Plantilla Zombies 1_18
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 9
+        width: 266
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Plantilla Zombies 1_19
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 1
+        width: 192
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Plantilla Zombies 1_20
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 185
+        width: 98
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Plantilla Zombies 1_21
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 31
+        width: 76
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Plantilla Zombies 1_22
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 35
+        width: 90
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Plantilla Zombies 1_23
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 11
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Plantilla Zombies 1_24
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 11
+        width: 120
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Plantilla Zombies 1_25
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 5
+        width: 100
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 
